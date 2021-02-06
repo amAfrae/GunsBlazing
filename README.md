@@ -1,7 +1,7 @@
-# GunsBlazing
-Projet personnel entres étudiants
+# Guns Blazing
+#Projet personnel entres étudiants
 
-Objectifs : 
+#Objectifs : 
 
  - Game Feel (Signes, Feedback)
  - Son (SFX, BGM)
