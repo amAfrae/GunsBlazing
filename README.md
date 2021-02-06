@@ -1,9 +1,9 @@
 # Guns Blazing
-#Projet personnel entres étudiants
+**Projet personnel entres étudiants**
 
-#Objectifs : 
+**Objectifs :** 
 
- - Game Feel (Signes, Feedback)
- - Son (SFX, BGM)
- - Animation 2D
- - Pathfinding (IA)
+ - **Game Feel** _(Signes, Feedback)_
+ - **Son** _(SFX, BGM)_
+ - **Animation 2D**
+ - **Pathfinding** _(IA)_
